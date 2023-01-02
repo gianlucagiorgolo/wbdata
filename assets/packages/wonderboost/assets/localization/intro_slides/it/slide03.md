@@ -1,0 +1,1 @@
+Facciamo questo per offrirti uno storico del funzionamento della tua batteria Wonderboost.

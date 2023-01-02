@@ -1,0 +1,1 @@
+And you can also decide not to share this data with us. You can always change your preferences in the Settings page.

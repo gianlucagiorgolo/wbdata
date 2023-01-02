@@ -1,0 +1,1 @@
+This is so that we can offer you an historic overview of how your Wonderboost battery is working.

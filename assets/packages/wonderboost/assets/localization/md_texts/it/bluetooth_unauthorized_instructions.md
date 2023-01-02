@@ -1,0 +1,1 @@
+App non autorizzata all'utilizzo dei servizi bluetooth

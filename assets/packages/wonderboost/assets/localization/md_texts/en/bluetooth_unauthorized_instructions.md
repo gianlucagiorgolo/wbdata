@@ -1,0 +1,1 @@
+The app is not authorized to access bluetooth services.

@@ -1,0 +1,1 @@
+Wonderboost raccoglie due diversi tipi di dati: la **telemetria della batteria** e la tua **posizione**

@@ -1,0 +1,1 @@
+Raccogliamo questi dati anche quando l'app è in modalità *background*, ossia quando non la stai direttamente utilizzando.

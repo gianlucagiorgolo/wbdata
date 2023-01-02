@@ -1,0 +1,1 @@
+E puoi anche decidere di non condividere i dati con noi. La pagina delle Impostazioni ti permette di cambiare le preferenze quando vuoi.

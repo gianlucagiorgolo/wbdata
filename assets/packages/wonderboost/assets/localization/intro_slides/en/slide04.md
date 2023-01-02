@@ -1,0 +1,1 @@
+You can always turn off the tracking of your **location** from the Settings page of the app.
