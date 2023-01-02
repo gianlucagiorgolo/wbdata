@@ -4,9 +4,10 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "f110713a0c5bb03c64edb667eba0db1f",
-"index.html": "72545c91c60c9e2ea0265fbcd801e2b7",
-"/": "72545c91c60c9e2ea0265fbcd801e2b7",
-"main.dart.js": "75d4ca80331a93bc02589eda91acff63",
+"index.html": "ae78768ea57b517802e92e6086c329f0",
+"/": "ae78768ea57b517802e92e6086c329f0",
+"main.dart.js": "8756c2e04c6d2e18288f6b4014ec0071",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -72,7 +73,11 @@ const RESOURCES = {
 "assets/packages/wonderboost/assets/localization/md_texts/en/bluetooth_powered_off_instructions.md": "5a9a40a2b8e7febd054978d998ecd069",
 "assets/packages/wonderboost/assets/localization/md_texts/en/location_services_disabled_instructions.md": "712c9bbb97327b0d8e0c601665aa656c",
 "assets/shaders/ink_sparkle.frag": "1a18e05375d833844c8de489b74fe14a",
-"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b"
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
