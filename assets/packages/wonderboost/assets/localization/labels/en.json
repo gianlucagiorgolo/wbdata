@@ -52,5 +52,6 @@
     "relay01_error": "Faulty relay",
     "undervoltage_BMS_error": "BMS undervoltage",
     "overvoltage_BMS_error": "BMS overvoltage",
-    "version": "Version"
+    "version": "Version",
+    "firmware_version": "Firmware version"
 }

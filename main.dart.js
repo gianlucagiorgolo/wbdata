@@ -77563,7 +77563,7 @@ else{l=m.to
 l===$&&A.a()
 k=n.to
 k===$&&A.a()
-if(l-k<36e5)i.push(m)
+if(l-k<12e5)i.push(m)
 else{if(i.length!==0)j.push(i)
 i=A.b(new Array(0),o)
 i.push(m)}}}if(i.length!==0)j.push(i)

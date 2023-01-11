@@ -52,5 +52,6 @@
     "relay01_error": "Guasto relè",
     "undervoltage_BMS_error": "Sottovoltaggio BMS",
     "overvoltage_BMS_error": "Sovravoltaggio BMS",
-    "version": "Versione"
+    "version": "Versione",
+    "firmware_version": "Versione firmware"
 }

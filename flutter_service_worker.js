@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "baf376edd25ee712c2c7ad3ba06d3fca",
-"index.html": "ea2e11f2b814e64b2d1e53cd8f160dc8",
-"/": "ea2e11f2b814e64b2d1e53cd8f160dc8",
-"main.dart.js": "3aa746f171966570fff601db009776ba",
+  "version.json": "addd2e66f43e0ed4cee1db16a54ff275",
+"index.html": "45ce2ad38b7a86d58867399796eafc20",
+"/": "45ce2ad38b7a86d58867399796eafc20",
+"main.dart.js": "b7146fa9ecccbfaf0d1efdac1c3b36f6",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -52,8 +52,8 @@ const RESOURCES = {
 "assets/packages/wonderboost/assets/localization/privacy/it/privacy_policy.md": "48c8365c2b44fd9c38cf56a6f00ba7d7",
 "assets/packages/wonderboost/assets/localization/privacy/en/terms_and_conditions.md": "ae6b3a758009c99fe578a6bde6e2cce5",
 "assets/packages/wonderboost/assets/localization/privacy/en/privacy_policy.md": "1de1f76f37999a27b328237072f36f72",
-"assets/packages/wonderboost/assets/localization/labels/en.json": "30a44c53a43b8e9b661720f103a57706",
-"assets/packages/wonderboost/assets/localization/labels/it.json": "511159a47fd85fae0947d7f50b8b1dc7",
+"assets/packages/wonderboost/assets/localization/labels/en.json": "441b03420ad92ff125d23b513e1c5d15",
+"assets/packages/wonderboost/assets/localization/labels/it.json": "de1bd9ffa66de52c220f4fda272046a6",
 "assets/packages/wonderboost/assets/localization/intro_slides/it/slide05.md": "4a4b041cdff6b644fe0d606ae4d0e04d",
 "assets/packages/wonderboost/assets/localization/intro_slides/it/slide01.md": "8ad2862d5d43b93222843e921165003c",
 "assets/packages/wonderboost/assets/localization/intro_slides/it/slide04.md": "2c29d5675b000614382dd96f8938c275",
